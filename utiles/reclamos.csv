@@ -1,0 +1,20 @@
+RECLAMO,TIPO,ESTADO,FECHA CREADO,CLIENTE
+12,Falla vehiculo,En proceso,2024-11-06 22:21:30,Facundo Gutierrez
+16,Falla vehiculo,En proceso,2024-11-15 23:37:22,Maria Uner
+17,Falla vehiculo,En proceso,2024-11-15 23:37:29,Maria Uner
+10,Falla vehiculo,Finalizado,2024-11-06 15:28:50,Facundo Gutierrez
+13,Falla vehiculo,Finalizado,2024-11-12 22:16:31,Facundo Gutierrez
+14,Falla vehiculo,Finalizado,2024-11-15 11:47:15,Maria Uner
+15,Falla vehiculo,Finalizado,2024-11-15 23:13:42,Maria Uner
+18,Falla vehiculo,Finalizado,2024-11-15 23:37:31,Maria Uner
+19,Falla vehiculo,Finalizado,2024-11-17 18:51:00,Maria Uner
+20,Falla vehiculo,Finalizado,2024-11-17 18:51:09,Maria Uner
+27,Falla vehiculo,Finalizado,2024-11-19 18:59:58,Maria Uner
+11,Demora en contestar,Cancelado,2024-11-06 15:29:38,Facundo Gutierrez
+21,Falla vehiculo,Cancelado,2024-11-17 18:51:10,Maria Uner
+23,Demora en contestar,Cancelado,2024-11-17 19:16:33,Maria Uner
+24,Falla vehiculo,Cancelado,2024-11-19 15:45:43,Marcolino Marconi
+25,Falla vehiculo,Cancelado,2024-11-19 15:49:59,Marcolino Marconi
+26,Falla vehiculo,Cancelado,2024-11-19 18:59:56,Maria Uner
+28,Falla vehiculo,Cancelado,2024-11-19 20:18:12,Maria Uner
+29,Falla vehiculo,Cancelado,2024-11-19 22:35:03,Marta Nuñez
